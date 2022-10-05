@@ -16,6 +16,7 @@ author = "Dimas Wisnu Wirawan"
 description = "My Persoanl Website"
 keywords = "blog,developer,personal"
 info = ["Full Stack Developer"]
+avatarURL = ""
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
