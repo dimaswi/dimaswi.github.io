@@ -16,8 +16,8 @@ author = "Dimas Wisnu Wirawan"
 description = "My Persoanl Website"
 keywords = "blog,developer,personal"
 info = ["Full Stack Developer"]
-avatarURL = ""
-#gravatar = "john.doe@example.com"
+# avatarURL = "https://i.ibb.co/0hDNj6j/avatar.jpg"
+gravatar = "dimasw347@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
