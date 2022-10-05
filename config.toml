@@ -1,6 +1,5 @@
 baseURL = "http://dimaswi.github.io"
 title = "dimaswisnuwirawan"
-theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
