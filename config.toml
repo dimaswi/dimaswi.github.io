@@ -1,6 +1,6 @@
 baseURL = "http://dimaswi.github.io"
 title = "dimaswisnuwirawan"
-theme = "hugo-coder"
+# theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
@@ -14,10 +14,10 @@ enableEmoji = true
 [params]
 author = "Dimas Wisnu Wirawan"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website"
+description = "My Persoanl Website"
 keywords = "blog,developer,personal"
 info = ["Full Stack DevOps", "Magician"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "https://media-exp1.licdn.com/dms/image/C5603AQHhd28A4M1zDg/profile-displayphoto-shrink_800_800/0/1663490788094?e=1670457600&v=beta&t=_iux_JFDSn1Gxlnp8l1bcSkIbuKg7wmRu4Gy5opMAnw"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
