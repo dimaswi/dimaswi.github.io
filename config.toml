@@ -16,7 +16,7 @@ author = "Dimas Wisnu Wirawan"
 description = "My Persoanl Website"
 keywords = "blog,developer,personal"
 info = ["Full Stack DevOps", "Magician"]
-avatarURL = "https://media-exp1.licdn.com/dms/image/C5603AQHhd28A4M1zDg/profile-displayphoto-shrink_800_800/0/1663490788094?e=1670457600&v=beta&t=_iux_JFDSn1Gxlnp8l1bcSkIbuKg7wmRu4Gy5opMAnw"
+avatarURL = "images/logos/avatar.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
