@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://dimaswi.github.io"
 
 [module]
 [module.hugoVersion]
