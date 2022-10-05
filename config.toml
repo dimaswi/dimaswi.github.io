@@ -15,8 +15,8 @@ author = "Dimas Wisnu Wirawan"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "My Persoanl Website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
-avatarURL = "static/images/avatar.png"
+info = ["Full Stack Developer"]
+avatarURL = "https://raw.githubusercontent.com/dimaswi/dimaswi.github.io/main/images/logos/avatar.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
